@@ -1,0 +1,25 @@
+{
+  "name": "frontend-toolkit",
+  "version": "1.0.0",
+  "description": "前端开发者工具箱 - 实用工具函数和自定义 Hooks 集合",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontend",
+    "utils",
+    "hooks",
+    "react",
+    "toolkit"
+  ],
+  "author": "小白（字节跳动前端技术顾问）",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miserylee/frontend-toolkit.git"
+  }
+}
